@@ -1,15 +1,30 @@
-# pagina de login moderna
-um pequeno projeto de uma pagina de login, para treinar algumas funcionalidades do HTML, CSS, JAVASCRIPT
+# Tela de Login - Projeto de Exemplo
 
-# Screenshot
-aqui esta uma demonstração do projeto por foto, mas tambem pode clonar este repositório para interagir com ele diretamente 
+## Descrição
 
-<h1>primeira tela</h1>
-![screenshot](img/primeira%20tela.png)
-<hr>
-<h1> esta é a segunda tela</h1>
-![screenshot](img/segunda%20tela.png)
+Este é um projeto de uma **Tela de Login** simples, desenvolvida com HTML CSS E JAVASCRIPT A tela é totalmente responsiva e permite a autenticação de usuários através de um formulário básico.
 
+### Funcionalidades:
+- Campos de entrada para **usuário** e **senha**.
+- Botão de **login**.
+- Layout **responsivo** para adaptação a diferentes tamanhos de tela.
 
+## Imagens do Projeto
+
+Abaixo estão as imagens que ilustram a tela de login em diferentes estados:
+
+### Tela Inicial
+
+![Tela Inicial](./img/primeira%20tela.png)
+
+### tela secundária
+
+![Tela secundaria](./img/segunda%20tela.png)
+
+## Tecnologias Utilizadas
+
+- **HTML5**
+- **CSS3**
+- **JavaScript** 
 
 
