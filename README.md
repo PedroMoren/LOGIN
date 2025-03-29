@@ -1,5 +1,5 @@
 # Tela de Login - Projeto de Exemplo
-<h1>acesse e interaja com o projeto a partir do link abaixo:</h1>
+<h1>acesse o projeto a partir do link abaixo:</h1>
 https://pedromoren.github.io/Login/
 
 ## Descrição
